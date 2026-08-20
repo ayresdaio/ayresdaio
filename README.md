@@ -16,6 +16,17 @@
 
 ---
 
+### 📊 Estatísticas do GitHub | GitHub Stats
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ayresdaioneto&show_icons=true&theme=radical" alt="Ayres's GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ayresdaioneto&theme=radical" alt="Ayres's GitHub Streak" />
+  <br/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ayresdaioneto&layout=compact&theme=radical" alt="Top Languages" />
+</div>
+
+---
+
 ### 🛠️ Tecnologias e Ferramentas | Technologies and Tools
 
 **Desenvolvimento Web & Mobile | Web & Mobile Development:**
