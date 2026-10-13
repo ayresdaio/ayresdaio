@@ -1,11 +1,13 @@
-# Olá, sou o Ayres Daio Neto 👋
+# Hi, I'm Ayres Daio Neto 👋
 
-### Engenheiro de Software Full-Stack & Técnico de Infraestrutura
-**Portugal** | [Website & Portfólio](https://ayresdaioneto.pt) | [LinkedIn](https://linkedin.com/in/ayresdaioneto) | [Email](mailto:contacto@ayresdaioneto.pt)
+### Full-Stack Software Engineer & Systems Infrastructure Technician
+**Portugal** | [Website & Portfolio](https://ayresdaioneto.pt) | [LinkedIn](https://linkedin.com/in/ayresdaioneto) | [Email](mailto:contacto@ayresdaioneto.pt)
 
-Especializado no desenvolvimento de arquiteturas web escaláveis, plataformas SaaS multi-tenant e aplicações móveis orientadas a desempenho. Combino engenharia de software com administração de sistemas Linux e infraestrutura de servidores, garantindo soluções robustas desde o modelo de dados até à entrega contínua em produção.
+Specialized in building scalable web architectures, multi-tenant SaaS platforms, and performance-oriented mobile applications. I bridge the gap between software engineering and Linux systems administration, ensuring reliable solutions from database design to continuous deployment in production.
 
 ---
+
+## 🛠️ Tech Stack & Technical Competencies
 
 ## 🛠️ Stack Tecnológica & Competências
 ---
