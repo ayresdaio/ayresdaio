@@ -6,9 +6,6 @@
 Specialized in building scalable web architectures, multi-tenant SaaS platforms, and performance-oriented mobile applications. I bridge the gap between software engineering and Linux systems administration, ensuring reliable solutions from database design to continuous deployment in production.
 
 ---
-
-## 🛠️ Tech Stack & Technical Competencies
-
 ## 🛠️ Stack Tecnológica & Competências
 ---
 
