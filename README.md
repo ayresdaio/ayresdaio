@@ -86,14 +86,6 @@ Interactive platform that translates fingerspelling and Portuguese Sign Language
 
 **Links:** [Desktop demo](https://lgp-tradutor.vercel.app/) · [Mobile demo (PWA)](https://lgp-tradutor.vercel.app/mobile/) · [Source code](https://github.com/ayresdaio/Hack-4-Good) · [Project details](https://ayresdaioneto.pt/projetos)
 
-### ACIBA Web Platform
-
-Web platform with a public website and an administration backoffice, using the Next.js App Router and Server Actions for forms, data and uploads.
-
-**Stack:** [Next.js](https://nextjs.org), [React](https://react.dev), [Tailwind CSS](https://tailwindcss.com)
-
-**Links:** [Ask about this project](mailto:ayresdaioneto@gmail.com?subject=ACIBA)
-
 ### Website for Local Businesses
 
 School project to help local businesses get a strong online presence. Built in WordPress with a custom Divi design that adapts to computer and mobile screens.
