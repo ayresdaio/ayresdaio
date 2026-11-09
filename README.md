@@ -1,55 +1,31 @@
-# Hi, I'm Ayres Daio Neto 👋
-
-### Full-Stack Software Engineer & Systems Infrastructure Technician
-**Portugal** | [Website & Portfolio](https://ayresdaioneto.pt) | [LinkedIn](https://linkedin.com/in/ayresdaioneto) | [Email](mailto:contacto@ayresdaioneto.pt)
-
-Specialized in building scalable web architectures, multi-tenant SaaS platforms, and performance-oriented mobile applications. I bridge the gap between software engineering and Linux systems administration, ensuring reliable solutions from database design to continuous deployment in production.
-
----
-## 🛠️ Stack Tecnológica & Competências
----
-
-## 🚀 High-Impact Featured Projects
-
-### 🏢 [DaioDesk — Helpdesk SaaS Platform](https://github.com/ayresdaioneto)
-* **Problem & Context:** Centralized, multi-tenant ticketing system built for SMEs to replace scattered, manual customer support channels.
-* **Engineering Solution:** Built from scratch using native PHP and a normalized MySQL schema, modular architecture free from bloated external dependencies, smooth View Transitions API implementations, and authenticated transactional email delivery.
-* **Technical Impact:** Sub-millisecond local query responses, strict data isolation per tenant, and zero framework overhead.
-
-### 📱 [Kalocron — Mobile Health & Routine Tracker](https://github.com/ayresdaioneto)
-* **Problem & Context:** Shared, real-time family tracking for medical schedules, nutrition, and daily routines across multiple devices.
-* **Engineering Solution:** Cross-platform mobile app built with React Native and TypeScript, backed by Google Firebase for real-time state synchronization and offline data persistence.
-* **Technical Impact:** End-to-end type safety across domain entities, optimized battery/memory usage, and a seamless offline-first experience.
-
-### 💼 [Ledgemov — Financial Management for Freelancers](https://github.com/ayresdaioneto)
-* **Problem & Context:** Expense tracking, invoice estimation, and cash flow control tailored for independent contractors and small agencies.
-* **Engineering Solution:** Decoupled architecture featuring a robust Laravel/MySQL REST API and a Next.js + Tailwind CSS client, with role-based access control and analytical reporting.
-* **Technical Impact:** Strict separation of business rules, indexed database queries for ledger integrity, and immutable audit logs.
-
----
-
-## 🔒 Engineering Principles & Best Practices
-
-* **OWASP Security by Default:** Protection against SQL injection via parameterized queries, input sanitization to eliminate XSS, and hardened HTTP response headers across all deployments.
-* **Reliable Infrastructure:** Hands-on VPS and Linux server management, strictly configured DNS records (SPF, DKIM, DMARC), and production environments monitored for high availability.
-* **Maintainable Codebases:** Clean atomic commit history powered by Conventional Commits, self-documenting REST contracts, and reproducible local environments (`.env.example` + setup scripts).
-
----
-
-## 📊 GitHub Analytics
+<img src="assets/banner.svg" alt="Ayres Daio Neto — Full-Stack Developer" width="100%" />
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ayresdaioneto&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Ayres's GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ayresdaioneto&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+  <a href="https://ayresdaioneto.pt"><img src="assets/btn-portfolio.svg" alt="Portfolio" height="46" /></a>
+  <a href="https://www.linkedin.com/in/ayres-daio-neto"><img src="assets/btn-linkedin.svg" alt="LinkedIn" height="46" /></a>
+  <a href="mailto:ayresdaioneto@gmail.com"><img src="assets/btn-email.svg" alt="Email" height="46" /></a>
 </p>
 
----
+I'm a full-stack developer from Coimbra, Portugal. I build web platforms and mobile apps, and I'm comfortable on the Linux server side too, from database design to deployment. I like projects that solve real problems: helpdesk, production control, health tracking, finance and accessibility.
 
-## 🤝 Commercial Services & Technical Collaboration
+## 🛠️ Tech Stack
 
-Available for:
-- **Web Platform & SaaS Development:** Custom, secure, and maintainable software tailored to operational workflows.
-- **Code Audits & Performance Tuning:** Database optimization, OWASP security compliance reviews, and refactoring.
-- **Server Setup & Mail Deliverability:** Ubuntu VPS provisioning, deployment pipelines, and business email server configuration.
+<img src="assets/stack.svg" alt="Tech stack: languages, frontend and mobile, backend and data, infrastructure" width="100%" />
 
-📫 **Direct Inquiries:** [contacto@ayresdaioneto.pt](mailto:contacto@ayresdaioneto.pt) | [Schedule a Discussion / Request a Proposal](https://ayresdaioneto.pt)
+## 🚀 Featured Projects
+
+<img src="assets/projects.svg" alt="Featured projects: DaioDesk, MOBIpeople Production Platform, Kalocron, LGP Tradutor, Ledgemov" width="100%" />
+
+**🤟 LGP Tradutor** runs entirely in the browser with TensorFlow.js, so no camera data leaves the user's device: [Desktop demo](https://lgp-tradutor.vercel.app/) · [Mobile PWA](https://lgp-tradutor.vercel.app/mobile/) · [Source code](https://github.com/ayresdaio/Hack-4-Good)
+
+## 🔒 How I Work
+
+<img src="assets/principles.svg" alt="Security first, servers I run myself, clean workflow" width="100%" />
+
+## 🤝 Let's Connect
+
+I'm open to developer opportunities and, soon, to small freelance projects: web platforms, automation, and server and email setup.
+
+<p align="center">
+  📫 <a href="mailto:ayresdaioneto@gmail.com">ayresdaioneto@gmail.com</a> · <a href="https://ayresdaioneto.pt">ayresdaioneto.pt</a> · <a href="https://www.linkedin.com/in/ayres-daio-neto">LinkedIn</a>
+</p>
